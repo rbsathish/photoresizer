@@ -1,5 +1,5 @@
 # photoresizer
-Photoresizer using opencv with Tkinter GUI
+Photoresizer using opencv with Tkinter GUI.
 Resize photo using this code.
 python 3.6 used to create.
 
